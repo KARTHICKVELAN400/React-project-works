@@ -1,4 +1,3 @@
-DAY-2
 DAY - 2 
 
 1.) EXTERNAL CSS
