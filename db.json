@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {
+      "id": "5fbe",
+      "type": "expense",
+      "amount": 50
+    },
+    {
+      "id": "1493",
+      "type": "income",
+      "amount": 1234567890
+    },
+    {
+      "id": "3baf",
+      "type": "expense",
+      "amount": 345678
+    }
+  ]
+}
